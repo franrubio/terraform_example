@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "verdant-sprite-170019",
+  "private_key_id": "0ddf1410c48892a721e052e3217d8650f77913a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjw1rfGuDkGXUc\nIXRvf3HgZQsxRnyMRO/QcMbvctjOdbSkkH6OYz3wepbWuQFn/5dsyg5ndud470zc\n+Ap9OnkO8YN4H7fMJogmnZS7Dih5RXBZ2f0ZIdHFZKEvrRNxUlZq29sixVKNZo/D\nO1XMA77//bK9X/3CDalfbb/vZyfMHrmwtHBm7PfwAFuVmpceF8QINVJ9iXAYccUJ\nv9QtETpXbxaG9wIzTwnHTCQlg4ZcPwegQ8pQDkNjvWLqdxKl7yS6go3OUXdgQxcx\n4nMGMfKINFENMSpDWtb7RQ+nA8b79t5Ph4pKZQpGjwE+Dhb2Ec49o8rMFRXNAOk/\n02ywMHALAgMBAAECggEAB+2F0VXXG/PHjEG/sJjLhdYea+zs9qAXuVAxsUHZZmqj\nAMcl+UqrTaBW+7TKcU3ETOCd6zsBta8QBNp/137PLClbo03Ac2z3cQx2jh+qAe+Z\n+B+Uyx9XV7upZJ93rigS8EANzxRyYfoHF6fLCCyzlbz4ZtvmHaYqVD5XPlsQvXw4\nyPSTJCxrytnVynnkFsC3YCQpRlrlgyEUWTk0IcsmVFnr37+q5zi1UqdOhzvyPJ9u\nEQ55Sv0wogwm3g59dL0XO3H67x+ADIwopWeH1xP78fRIT3mnZEN19j31Kdk1W83u\nvTgWTp7m4MpRT64SX1qMWg7MYZS6MwzdDHi7G4VfgQKBgQDXSBUVt09C6MzVeXkR\ncv09UAOgrbC/mynEW0UbG94oeMS0BxqLJQg8TjvTCgMWnKj8KSdPHUuJ7IafCV43\nuYVmU6T7TGa9dBD0v9OCJ0pgGWmvIEG2lWntPCcpVJU556jMX9/xH0R+Sio6qu+O\n3yxKPBpMat/6aFvQdWbU6Ovf4QKBgQDCvMCXJH1F1+TF79TSYPdIFtph1YjfICwE\nzJXwt1DccKOWtIHu1Zw8SKc3x/oa0UHNq//xXuK1OUny/CcmS7CXW9kF6WEVXdfh\nqRL7hsCY5JRVjy1nsLkqYC3RCSLSLNZ/omUz0cmM7NvPnLC8eeibCMKWEl2F672Q\niIu4Fml9awKBgFrTvKGW30f5dEI0p9Gm1BUEJyOpZELSsgJ4B2Xykf49RbA2twox\nq5HV6AOX28m0es84ha8pSu977Sg4CZo1GYUckSS9DTOtPmIkdJYbAZQd5KrQTyk7\nTJ+cm2EioHr3tA3V/WN7r6ggnkR2Te/XVJZVWTsYdDrvwJzoi2QUiT/BAoGAan+R\nj9b7z7OHQJyttjQjaEBfQ/vks6nDiQhdw9xtE3FidavYF0ao/+r30DDEXeAs7Y7w\nFQ/ASj2/bGxr+KySMeSgJnSAjI/a3WV6pSYHtFXlrXj06u0iBsO8qsIlUe4FjJ3C\nXPmREUoD2GGn4huFkyvSRwJaNUA8VovmZVGUdWsCgYEArEi/oYcLuUjyUHHPDVGl\nikg48djUJNx+P+If6JkDjlaszYAbmLjxWnvC+oluVfu11zSh4rrgSGWj/LQicRP/\nYABi1kwoTiwJvF69O6IHPQ68gOdMmEamZ1PioNjWubFVzbGrYMCyrmv/pjRTY1Ia\nYTSGoNGrhHPj9UVHTH9wHhQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fran-936@verdant-sprite-170019.iam.gserviceaccount.com",
+  "client_id": "100488236051607074563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fran-936%40verdant-sprite-170019.iam.gserviceaccount.com"
+}
