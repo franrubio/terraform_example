@@ -6,6 +6,10 @@ a load balancer serving traffic.
 
 Running `terraform apply` on this configuration, it will
 automatically output the public IP address of the load balancer.
+After terraform apply command, you need to put the ID of Google Cloud Project:
+verdant-sprite-170019
+
+
 After your instance registers, the LB should respond with a simple header:
 
 ```html
