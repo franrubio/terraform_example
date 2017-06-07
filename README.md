@@ -18,11 +18,4 @@ The index may differ once you increase `count` of `google_compute_instance`
 Run with a command like this:
 
 ```
-terraform apply \
-	-var="region=us-central1" \
-	-var="region_zone=us-central1-f" \
-	-var="project_name=my-project-id-123" \
-	-var="credentials_file_path=account.json" \
-	-var="public_key_path=gcloud_id_rsa.pub" \
-	-var="private_key_path=gcloud_id_rsa"
-```
+terraform apply
